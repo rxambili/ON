@@ -1,0 +1,35 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Algorithme de Newton Local}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Pr\IeC {\'e}sentation}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Algorithme}{2}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Tests de l'algorithme}{2}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Interpr\IeC {\'e}tations}{4}{subsection.2.4}
+\contentsline {section}{\numberline {3}Algorithme des R\IeC {\'e}gion de Confiance}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Pr\IeC {\'e}sentation}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Algorithme}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Tests de l'algorithme}{6}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Interpr\IeC {\'e}tations}{6}{subsection.3.4}
+\contentsline {section}{\numberline {4}Algorithme du Pas de Cauchy}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Pr\IeC {\'e}sentation}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Algorithme}{7}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Tests de l'algorithme}{7}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Interpr\IeC {\'e}tations}{8}{subsection.4.4}
+\contentsline {section}{\numberline {5}Algorithme de Newton non Lin\IeC {\'e}aire}{9}{section.5}
+\contentsline {subsection}{\numberline {5.1}Pr\IeC {\'e}sentation}{9}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Algorithme}{9}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Tests de l'algorithme}{10}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Interpr\IeC {\'e}tations}{10}{subsection.5.4}
+\contentsline {section}{\numberline {6}Algorithme de Mor\IeC {\'e}-Sorensen}{12}{section.6}
+\contentsline {subsection}{\numberline {6.1}Pr\IeC {\'e}sentation}{12}{subsection.6.1}
+\contentsline {section}{\numberline {7}Algorithme du Lagrangien Augment\IeC {\'e}}{13}{section.7}
+\contentsline {subsection}{\numberline {7.1}Pr\IeC {\'e}sentation}{13}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Algorithme}{13}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Tests de l'algorithme}{14}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Interpr\IeC {\'e}tations}{15}{subsection.7.4}
+\contentsline {section}{\numberline {8}Annexes : Probl\IeC {\`e}mes et cas tests}{16}{section.8}
+\contentsline {subsection}{\numberline {8.1}Probl\IeC {\`e}mes sans contraintes}{16}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Cas tests pour le calcul du pas de Cauchy}{16}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Fonctions tests pour l'algorithme de r\IeC {\'e}solution d'\IeC {\'e}quations non lin\IeC {\'e}aires}{17}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}Cas tests pour l'algorithme de Mor\IeC {\'e}-Sorensen}{17}{subsection.8.4}
+\contentsline {subsection}{\numberline {8.5}Probl\IeC {\`e}mes avec contraintes}{18}{subsection.8.5}

@@ -1,0 +1,34 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Algorithme de Newton Local}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Pr\351sentation}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Algorithme}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Tests de l'algorithme}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Interpr\351tations}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Algorithme des R\351gion de Confiance}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Pr\351sentation}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Algorithme}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Tests de l'algorithme}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.4}{Interpr\351tations}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{Algorithme du Pas de Cauchy}{}% 12
+\BOOKMARK [2][-]{subsection.4.1}{Pr\351sentation}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.2}{Algorithme}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.3}{Tests de l'algorithme}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.4}{Interpr\351tations}{section.4}% 16
+\BOOKMARK [1][-]{section.5}{Algorithme de Newton non Lin\351aire}{}% 17
+\BOOKMARK [2][-]{subsection.5.1}{Pr\351sentation}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.2}{Algorithme}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.3}{Tests de l'algorithme}{section.5}% 20
+\BOOKMARK [2][-]{subsection.5.4}{Interpr\351tations}{section.5}% 21
+\BOOKMARK [1][-]{section.6}{Algorithme de Mor\351-Sorensen}{}% 22
+\BOOKMARK [2][-]{subsection.6.1}{Pr\351sentation}{section.6}% 23
+\BOOKMARK [1][-]{section.7}{Algorithme du Lagrangien Augment\351}{}% 24
+\BOOKMARK [2][-]{subsection.7.1}{Pr\351sentation}{section.7}% 25
+\BOOKMARK [2][-]{subsection.7.2}{Algorithme}{section.7}% 26
+\BOOKMARK [2][-]{subsection.7.3}{Tests de l'algorithme}{section.7}% 27
+\BOOKMARK [2][-]{subsection.7.4}{Interpr\351tations}{section.7}% 28
+\BOOKMARK [1][-]{section.8}{Annexes : Probl\350mes et cas tests}{}% 29
+\BOOKMARK [2][-]{subsection.8.1}{Probl\350mes sans contraintes}{section.8}% 30
+\BOOKMARK [2][-]{subsection.8.2}{Cas tests pour le calcul du pas de Cauchy}{section.8}% 31
+\BOOKMARK [2][-]{subsection.8.3}{Fonctions tests pour l'algorithme de r\351solution d'\351quations non lin\351aires}{section.8}% 32
+\BOOKMARK [2][-]{subsection.8.4}{Cas tests pour l'algorithme de Mor\351-Sorensen}{section.8}% 33
+\BOOKMARK [2][-]{subsection.8.5}{Probl\350mes avec contraintes}{section.8}% 34
